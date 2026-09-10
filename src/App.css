@@ -49,6 +49,11 @@
   margin-bottom: 1rem;
 }
 
+.greeting {
+  color: #d32f2f;
+  font-weight: 600;
+}
+
 .hello-button {
   background: #667eea;
   color: white;

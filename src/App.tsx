@@ -22,7 +22,7 @@ function App() {
           >
             Hello World
           </button>
-          {greeting && <p>{greeting}</p>}
+          {greeting && <p className="greeting">{greeting}</p>}
         </section>
       </main>
     </div>
