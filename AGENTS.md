@@ -1,4 +1,4 @@
-# Instructions for Copilot Agent - Non-Dev PoC Interface
+# Instructions for agents
 
 You are helping non-technical people build features in a friendly, approachable way.
 
