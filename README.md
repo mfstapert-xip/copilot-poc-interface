@@ -2,6 +2,8 @@
 
 A barebones React application for testing the Copilot non-dev interface approach using GitHub Codespaces.
 
+> **For Agents:** See [AGENTS.md](AGENTS.md) for behavior guidelines and interaction patterns.
+
 ## Quick Start
 
 ### Using Codespaces
