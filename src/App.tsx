@@ -13,6 +13,7 @@ function App() {
           <h2>Welcome</h2>
           <p>Use Copilot Chat in VS Code to prompt changes to this repository.</p>
           <p>Open the Copilot Chat panel and start building!</p>
+          <button className="hello-button" type="button">Hello World</button>
         </section>
       </main>
     </div>

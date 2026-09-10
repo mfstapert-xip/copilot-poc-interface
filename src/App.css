@@ -48,3 +48,18 @@
   line-height: 1.6;
   margin-bottom: 1rem;
 }
+
+.hello-button {
+  background: #667eea;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.hello-button:hover {
+  background: #5569d8;
+}
